@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Created a changelog from the git history with help from [auto-changelog](https://www.npmjs.com/package/auto-changelog). It could probably use cleanup!
 
+### Fixed
+- Update tests for changed composer 2.0.9 hash.
+
 ## [2.10.0] - 2021-02-09
 
 - Autoloader: test suite refactor
