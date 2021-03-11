@@ -12,11 +12,14 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Composer alias for dev-master, to improve dependencies
 - Created a changelog from the git history with help from [auto-changelog](https://www.npmjs.com/package/auto-changelog). It could probably use cleanup!
+- Tests: Added code coverage transformation
 
 ### Changed
 - Update package dependencies.
 
 ### Fixed
+- Fix coverage test
+- Fix uninstallation fatal
 - Update tests for changed composer 2.0.9 hash.
 
 ## [2.10.0] - 2021-02-09
