@@ -21,6 +21,7 @@ This is an alpha version! The changes listed here are not final.
 - Fix coverage test
 - Fix uninstallation fatal
 - Update tests for changed composer 2.0.9 hash.
+- Use `composer update` rather than `install` in scripts, as composer.lock isn't checked in.
 
 ## [2.10.0] - 2021-02-09
 
