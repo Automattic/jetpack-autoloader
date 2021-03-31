@@ -36,6 +36,7 @@
 	"minimum-stability": "dev",
 	"prefer-stable": true,
 	"extra": {
+		"autotagger": true,
 		"class": "Automattic\\Jetpack\\Autoloader\\CustomAutoloaderPlugin",
 		"mirror-repo": "Automattic/jetpack-autoloader",
 		"changelogger": {
