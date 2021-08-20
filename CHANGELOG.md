@@ -5,9 +5,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.10.5-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Changed
+- Run composer update on test-php command instead of phpunit
+
 ## [2.10.4] - 2021-08-10
 ### Changed
 - Updated package dependencies.
+
 ## [2.10.3] - 2021-05-25
 ### Changed
 - Updated package dependencies.
@@ -190,6 +198,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Add Custom Autoloader
 
+[2.10.5-alpha]: https://github.com/Automattic/jetpack-autoloader/compare/v2.10.4...v2.10.5-alpha
 [2.10.4]: https://github.com/Automattic/jetpack-autoloader/compare/v2.10.3...v2.10.4
 [2.10.3]: https://github.com/Automattic/jetpack-autoloader/compare/v2.10.2...v2.10.3
 [2.10.2]: https://github.com/Automattic/jetpack-autoloader/compare/v2.10.1...v2.10.2
