@@ -5,10 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [2.10.11-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [2.10.11] - 2022-01-04
 ### Changed
 - Switch to pcov for code coverage.
 - Updated package dependencies
@@ -224,7 +221,7 @@ This is an alpha version! The changes listed here are not final.
 
 - Add Custom Autoloader
 
-[2.10.11-alpha]: https://github.com/Automattic/jetpack-autoloader/compare/v2.10.10...v2.10.11-alpha
+[2.10.11]: https://github.com/Automattic/jetpack-autoloader/compare/v2.10.10...v2.10.11
 [2.10.10]: https://github.com/Automattic/jetpack-autoloader/compare/v2.10.9...v2.10.10
 [2.10.9]: https://github.com/Automattic/jetpack-autoloader/compare/v2.10.8...v2.10.9
 [2.10.8]: https://github.com/Automattic/jetpack-autoloader/compare/v2.10.7...v2.10.8
