@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Changed
+- Microperformance: Use === null instead of is_null
+
 ## [2.11.1] - 2022-03-08
 ### Removed
 - Removed the Upgrade Handler.
