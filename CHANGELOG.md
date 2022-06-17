@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.11.6-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Changed
+- Renaming `master` to `trunk`.
+
 ## [2.11.5] - 2022-05-18
 ### Fixed
 - Fix new PHPCS sniffs. [#24366]
@@ -253,6 +260,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Add Custom Autoloader
 
+[2.11.6-alpha]: https://github.com/Automattic/jetpack-autoloader/compare/v2.11.5...v2.11.6-alpha
 [2.11.5]: https://github.com/Automattic/jetpack-autoloader/compare/v2.11.4...v2.11.5
 [2.11.4]: https://github.com/Automattic/jetpack-autoloader/compare/v2.11.3...v2.11.4
 [2.11.3]: https://github.com/Automattic/jetpack-autoloader/compare/v2.11.2...v2.11.3
