@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Use `Composer\ClassMapGenerator\ClassMapGenerator` when available (i.e. with composer 2.4).
 
+### Fixed
+- Declare fields for PHP 8.2 compatibility.
+
 ## [2.11.13] - 2022-12-02
 ### Changed
 - Updated package dependencies. [#27688]
