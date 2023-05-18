@@ -3,20 +3,12 @@
 	"description": "Creates a custom autoloader for a plugin or theme.",
 	"type": "composer-plugin",
 	"license": "GPL-2.0-or-later",
-	"keywords": [
-		"autoload",
-		"autoloader",
-		"composer",
-		"plugin",
-		"jetpack",
-		"wordpress"
-	],
 	"require": {
 		"composer-plugin-api": "^1.1 || ^2.0"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "1.0.4",
-		"automattic/jetpack-changelogger": "^3.3.4-alpha"
+		"automattic/jetpack-changelogger": "^3.3.3"
 	},
 	"autoload": {
 		"classmap": [
