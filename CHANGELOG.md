@@ -5,7 +5,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.11.21-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Added
+- Set keywords to have `composer require` prompt for `--dev` on installation.
+
 ## [2.11.20] - 2023-05-11
+
 - Updated package dependencies
 
 ## [2.11.19] - 2023-04-25
@@ -315,6 +323,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Add Custom Autoloader
 
+[2.11.21-alpha]: https://github.com/Automattic/jetpack-autoloader/compare/v2.11.20...v2.11.21-alpha
 [2.11.20]: https://github.com/Automattic/jetpack-autoloader/compare/v2.11.19...v2.11.20
 [2.11.19]: https://github.com/Automattic/jetpack-autoloader/compare/v2.11.18...v2.11.19
 [2.11.18]: https://github.com/Automattic/jetpack-autoloader/compare/v2.11.17...v2.11.18
