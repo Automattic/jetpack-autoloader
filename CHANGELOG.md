@@ -5,6 +5,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.11.23-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
 ## [2.11.22] - 2023-08-23
 ### Changed
 - Updated package dependencies. [#32605]
@@ -324,6 +328,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Add Custom Autoloader
 
+[2.11.23-alpha]: https://github.com/Automattic/jetpack-autoloader/compare/v2.11.22...v2.11.23-alpha
 [2.11.22]: https://github.com/Automattic/jetpack-autoloader/compare/v2.11.21...v2.11.22
 [2.11.21]: https://github.com/Automattic/jetpack-autoloader/compare/v2.11.20...v2.11.21
 [2.11.20]: https://github.com/Automattic/jetpack-autoloader/compare/v2.11.19...v2.11.20
