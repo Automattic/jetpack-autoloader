@@ -5,12 +5,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [3.0.7-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [3.0.7] - 2024-05-06
 ### Fixed
-- Avoid deprecation notices when plugin path is null
+- Avoid deprecation notices when plugin path is null. [#37174]
 
 ## [3.0.6] - 2024-04-22
 ### Changed
@@ -363,7 +360,7 @@ This is an alpha version! The changes listed here are not final.
 
 - Add Custom Autoloader
 
-[3.0.7-alpha]: https://github.com/Automattic/jetpack-autoloader/compare/v3.0.6...v3.0.7-alpha
+[3.0.7]: https://github.com/Automattic/jetpack-autoloader/compare/v3.0.6...v3.0.7
 [3.0.6]: https://github.com/Automattic/jetpack-autoloader/compare/v3.0.5...v3.0.6
 [3.0.5]: https://github.com/Automattic/jetpack-autoloader/compare/v3.0.4...v3.0.5
 [3.0.4]: https://github.com/Automattic/jetpack-autoloader/compare/v3.0.3...v3.0.4
