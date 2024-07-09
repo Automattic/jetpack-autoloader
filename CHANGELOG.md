@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.9-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Fixed
+- Avoid a deprecation notice in `Autoloader_Locator::find_latest_autoloader()`.
+
 ## [3.0.8] - 2024-05-29
 ### Fixed
 - `AutoloadGenerator::__construct` no longer pretends `$io` is nullable. That never worked. [#37608]
@@ -364,6 +371,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Add Custom Autoloader
 
+[3.0.9-alpha]: https://github.com/Automattic/jetpack-autoloader/compare/v3.0.8...v3.0.9-alpha
 [3.0.8]: https://github.com/Automattic/jetpack-autoloader/compare/v3.0.7...v3.0.8
 [3.0.7]: https://github.com/Automattic/jetpack-autoloader/compare/v3.0.6...v3.0.7
 [3.0.6]: https://github.com/Automattic/jetpack-autoloader/compare/v3.0.5...v3.0.6
