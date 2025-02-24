@@ -18,7 +18,7 @@
 	"require-dev": {
 		"composer/composer": "^2.2",
 		"yoast/phpunit-polyfills": "^1.1.1",
-		"automattic/jetpack-changelogger": "^6.0.0-alpha"
+		"automattic/jetpack-changelogger": "^6.0.0"
 	},
 	"autoload": {
 		"classmap": [
