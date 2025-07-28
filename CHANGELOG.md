@@ -5,12 +5,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [5.0.9-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [5.0.9] - 2025-07-28
 ### Changed
-- Production release: remove development files from production version of the package.
+- Exclude development files from production build of the package. [#44456]
 
 ## [5.0.8] - 2025-06-23
 ### Fixed
@@ -437,7 +434,7 @@ This is an alpha version! The changes listed here are not final.
 
 - Add Custom Autoloader
 
-[5.0.9-alpha]: https://github.com/Automattic/jetpack-autoloader/compare/v5.0.8...v5.0.9-alpha
+[5.0.9]: https://github.com/Automattic/jetpack-autoloader/compare/v5.0.8...v5.0.9
 [5.0.8]: https://github.com/Automattic/jetpack-autoloader/compare/v5.0.7...v5.0.8
 [5.0.7]: https://github.com/Automattic/jetpack-autoloader/compare/v5.0.6...v5.0.7
 [5.0.6]: https://github.com/Automattic/jetpack-autoloader/compare/v5.0.5...v5.0.6
