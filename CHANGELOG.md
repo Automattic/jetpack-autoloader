@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [5.0.12-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Fixed
+- Tests: Improve compatibility with PHP 8.5.
+
 ## [5.0.11] - 2025-10-06
 ### Fixed
 - Tests: Replace deprecated `RunClassInSeparateProcess` attribute with `RunTestsInSeparateProcesses`. [#45370]
@@ -442,6 +449,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Add Custom Autoloader
 
+[5.0.12-alpha]: https://github.com/Automattic/jetpack-autoloader/compare/v5.0.11...v5.0.12-alpha
 [5.0.11]: https://github.com/Automattic/jetpack-autoloader/compare/v5.0.10...v5.0.11
 [5.0.10]: https://github.com/Automattic/jetpack-autoloader/compare/v5.0.9...v5.0.10
 [5.0.9]: https://github.com/Automattic/jetpack-autoloader/compare/v5.0.8...v5.0.9
