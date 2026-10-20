@@ -18,7 +18,7 @@
 	"require-dev": {
 		"composer/composer": "^2.2",
 		"yoast/phpunit-polyfills": "^4.0.0",
-		"automattic/phpunit-select-config": "^1.0.11"
+		"automattic/phpunit-select-config": "^1.0.12-alpha"
 	},
 	"autoload": {
 		"classmap": [
@@ -41,7 +41,6 @@
 	"minimum-stability": "dev",
 	"prefer-stable": true,
 	"extra": {
-		"autotagger": true,
 		"class": "Automattic\\Jetpack\\Autoloader\\CustomAutoloaderPlugin",
 		"mirror-repo": "Automattic/jetpack-autoloader",
 		"changelogger": {
